@@ -7,7 +7,7 @@
 ## the README.md located in this forked repo or in the original repo at 
 ## https://github.com/rdpeng/ProgrammingAssignment2 .
 ## 
-## Submitted in partial completion of 'Programming Assignment 2" for the  
+## Submitted in completion of 'Programming Assignment 2" for the  
 ## course 'R Programming' as part of the Data Science Track on Coursera
 ## Submitted by: epigenus
 ## Section: rprog-005
