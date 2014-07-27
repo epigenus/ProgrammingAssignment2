@@ -11,7 +11,7 @@
 ## course 'R Programming' as part of the Data Science Track on Coursera
 ## Submitted by: epigenus
 ## Section: rprog-005
-## Date: August 2014
+## Date: July 2014
 
 
 ## Function: makeCacheMatrix(x)
